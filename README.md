@@ -1,4 +1,4 @@
-# UpcPre202201Si652ExamenParcial
+# Midterm Exam - Open Source Apps (2022-1)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
